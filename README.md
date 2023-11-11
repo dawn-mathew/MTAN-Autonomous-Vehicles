@@ -42,8 +42,11 @@ import matplotlib.pyplot as plt
 
 ## Results
 > Note: Training the MTAN network is very computationally heavy. As a result the network was only trained for 1 epoch in my host machine, as evident from the Jupyter notebook. Instead I performed the training in my University's data lab, from which the following results are evident.
+### Segmentation Prediction
 ![Segmentation Prediction](https://github.com/dawn-mathew/MTAN-Autonomous-Vehicles/assets/150279674/81f0ef63-9722-4e67-92ac-fe12d9ad1c9e)
+### Overlays
 ![Overlay](https://github.com/dawn-mathew/MTAN-Autonomous-Vehicles/assets/150279674/731c65fa-7046-4718-96d2-dc72ddf630d5)
+### Depth map estimation
 ![Depth map estimation](https://github.com/dawn-mathew/MTAN-Autonomous-Vehicles/assets/150279674/3df0f1b7-5283-4735-a89a-97eb4da1adcb)
 
 
